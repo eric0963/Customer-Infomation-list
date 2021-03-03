@@ -1,2 +1,2 @@
 # Customer-Infomation-list
-Using MVC &amp; CRUD without database 初試MVC＋CRUD (不連資料庫)
+Using CRUD without database 初試 CRUD (不連資料庫)
